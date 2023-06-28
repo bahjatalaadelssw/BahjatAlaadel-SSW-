@@ -10,3 +10,5 @@
 
 All the best,
 Bahjat
+
+[![Bahjat's github stats](https://github-readme-stats.vercel.app/api?username=bahjatalaadelssw&theme=dark)](https://github.com/bahjatalaadelssw/github-readme-stats)
